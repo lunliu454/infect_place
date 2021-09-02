@@ -1,0 +1,20 @@
+"","Intervention","Estimate"
+"1","School","0.271*
+(0.150)"
+"2","Childcare","0.0498
+(0.094)"
+"3","Retail+Large group in","-0.523
+(0.331)"
+"4","Restaurant+Culture+Small group in","-0.288**
+(0.122)"
+"5","Bar","NaN
+(0.000)"
+"6","Entertainment+Sports outdoor","NaN
+(0.000)"
+"7","Sports indoor","-0.564**
+(0.218)"
+"8","Stay-at-home","-0.236**
+(0.116)"
+"9","Observations","24285"
+"10","R-squared","0.644"
+"11","Adjusted R-squared","0.638"

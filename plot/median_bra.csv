@@ -1,0 +1,5 @@
+"","combine","coefficient","se","t","var","group"
+"1","win7_shop_close+win7_sports_outdoor_close",-0.329943041785925,0.114913647065491,-2.87122591799637,"den","low"
+"2","win7_shop_close+win7_sports_outdoor_close",-0.218114758753911,0.114024272781566,-1.91288006871791,"den","high"
+"3","win7_shop_close+win7_restaurant_close+win7_entertainment_close+win7_sports_outdoor_close",-0.723423255399371,0.266930177473333,-2.71015912193608,"pop","low"
+"4","win7_shop_close+win7_cultural_close+win7_sports_outdoor_close",-0.246817607185088,0.10629999360353,-2.32189672659484,"pop","high"

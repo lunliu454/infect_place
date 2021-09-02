@@ -1,0 +1,72 @@
+"","intervention","exclude","b","se"
+"1","School1","Default",0.271432434753367,0.150459553040462
+"2","School2","Childcare",NA,NA
+"3","School3","Retail+
+Large group in",NA,NA
+"4","School","Restaurant+Culture+
+Small group in",NA,NA
+"5","School5","Sports indoor",NA,NA
+"6","School6","Stay-at-home",NA,NA
+"7","School7","Add",NA,NA
+"8","School8",NA,NA,NA
+"9","School9",NA,NA,NA
+"10","Childcare1","Default",0.049751872697377,0.0936392393382256
+"11","Childcare2","School",NA,NA
+"12","Childcare3","Retail+
+Large group in",NA,NA
+"13","Childcare","Restaurant+Culture+
+Small group in",NA,NA
+"14","Childcare5","Sports indoor",NA,NA
+"15","Childcare6","Stay-at-home",NA,NA
+"16","Childcare7","Add",NA,NA
+"17","Childcare8",NA,NA,NA
+"18","Childcare9",NA,NA,NA
+"19","Retail+
+Large group in1","Default",-0.522906145372956,0.331423091953169
+"20","Retail+
+Large group in2","School",NA,NA
+"21","Retail+
+Large group in3","Childcare",NA,NA
+"22","Retail+
+Large group in","Restaurant+Culture+
+Small group in",NA,NA
+"23","Retail+
+Large group in5","Sports indoor",NA,NA
+"24","Retail+
+Large group in6","Stay-at-home",NA,NA
+"25","Retail+
+Large group in7","Add",NA,NA
+"26","Retail+
+Large group in8",NA,NA,NA
+"27","Retail+
+Large group in9",NA,NA,NA
+"28","Restaurant+Culture+
+Small group in1","Default",-0.288212617808709,0.121676859468496
+"29","Restaurant+Culture+
+Small group in2","School",NA,NA
+"30","Restaurant+Culture+
+Small group in3","Childcare",NA,NA
+"31","Restaurant+Culture+
+Small group in","Retail+
+Large group in",NA,NA
+"32","Restaurant+Culture+
+Small group in5","Sports indoor",NA,NA
+"33","Restaurant+Culture+
+Small group in6","Stay-at-home",NA,NA
+"34","Restaurant+Culture+
+Small group in7","Add",NA,NA
+"35","Restaurant+Culture+
+Small group in8",NA,NA,NA
+"36","Restaurant+Culture+
+Small group in9",NA,NA,NA
+"37","Sports indoor1","Default",-0.563873211082498,0.217780730280239
+"38","Sports indoor2","School",NA,NA
+"39","Sports indoor3","Childcare",NA,NA
+"40","Sports indoor","Retail+
+Large group in",NA,NA
+"41","Sports indoor5","Restaurant+Culture+
+Small group in",NA,NA
+"42","Sports indoor6","Stay-at-home",NA,NA
+"43","Sports indoor7","Add",NA,NA
+"44","Sports indoor8",NA,NA,NA
+"45","Sports indoor9",NA,NA,NA

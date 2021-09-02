@@ -1,0 +1,72 @@
+"","intervention","exclude","b","se"
+"1","School1","Default",NA,NA
+"2","School2","Childcare",0.297863591138319,0.14968014348375
+"3","School3","Retail+
+Large group in",0.218543213553295,0.154340850128516
+"4","School","Restaurant+Culture+
+Small group in",0.300373545760567,0.154687473152483
+"5","School5","Sports indoor",0.27624338521238,0.15014329885518
+"6","School6","Stay-at-home",0.282639578574071,0.146979292315357
+"7","School7","Add",0.238071028409689,0.145992269335569
+"8","School8",NA,NA,NA
+"9","School9",NA,NA,NA
+"10","Childcare1","Default",NA,NA
+"11","Childcare2","School",0.146089497862649,0.104387637632324
+"12","Childcare3","Retail+
+Large group in",0.0375882747810041,0.0968115190865647
+"13","Childcare","Restaurant+Culture+
+Small group in",0.0094861308286184,0.105237559125027
+"14","Childcare5","Sports indoor",0.0499291134499147,0.0937681955564271
+"15","Childcare6","Stay-at-home",-0.0302809005041759,0.0861084932240354
+"16","Childcare7","Add",0.117671111536966,0.105119489920989
+"17","Childcare8",NA,NA,NA
+"18","Childcare9",NA,NA,NA
+"19","Retail+
+Large group in1","Default",NA,NA
+"20","Retail+
+Large group in2","School",-0.346268971937779,0.401810611847237
+"21","Retail+
+Large group in3","Childcare",-0.511760705378304,0.310219595775918
+"22","Retail+
+Large group in","Restaurant+Culture+
+Small group in",-0.517078237597032,0.322744995433852
+"23","Retail+
+Large group in5","Sports indoor",-0.530704978203391,0.329008312658178
+"24","Retail+
+Large group in6","Stay-at-home",-0.604287003508997,0.335323886861607
+"25","Retail+
+Large group in7","Add",-0.503184640799401,0.336709184997658
+"26","Retail+
+Large group in8",NA,NA,NA
+"27","Retail+
+Large group in9",NA,NA,NA
+"28","Restaurant+Culture+
+Small group in1","Default",NA,NA
+"29","Restaurant+Culture+
+Small group in2","School",-0.398340965857238,0.152526016243585
+"30","Restaurant+Culture+
+Small group in3","Childcare",-0.246174829502329,0.151576840447831
+"31","Restaurant+Culture+
+Small group in","Retail+
+Large group in",-0.28157241013998,0.125796341743971
+"32","Restaurant+Culture+
+Small group in5","Sports indoor",-0.0726550611390354,0.101132555382162
+"33","Restaurant+Culture+
+Small group in6","Stay-at-home",-0.206147420544017,0.131235193171623
+"34","Restaurant+Culture+
+Small group in7","Add",-0.344661252094695,0.121997622312455
+"35","Restaurant+Culture+
+Small group in8",NA,NA,NA
+"36","Restaurant+Culture+
+Small group in9",NA,NA,NA
+"37","Sports indoor1","Default",NA,NA
+"38","Sports indoor2","School",-0.603864117816477,0.222589852812819
+"39","Sports indoor3","Childcare",-0.564277427715135,0.218825343993243
+"40","Sports indoor","Retail+
+Large group in",-0.583284082970914,0.213694074887413
+"41","Sports indoor5","Restaurant+Culture+
+Small group in",-0.0929938093143036,0.178475539237673
+"42","Sports indoor6","Stay-at-home",-0.553539740022174,0.222675319197489
+"43","Sports indoor7","Add",-0.553187304808465,0.217080050718784
+"44","Sports indoor8",NA,NA,NA
+"45","Sports indoor9",NA,NA,NA

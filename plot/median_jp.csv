@@ -1,0 +1,5 @@
+"","combine","coefficient","se","t","var","group"
+"1","win7_school_close+win7_restaurant_close+win7_entertainment_close+win7_cultural_close+win7_worship_close+win7_sports_indoor_close",-2.93730258689917,0.376184972428446,-7.80813376977164,"den","low"
+"2","win7_childcare_close+win7_entertainment_close+win7_worship_close+win7_sports_outdoor_close",-1.6565017221722,0.433176205542208,-3.82408290432008,"den","high"
+"3","win7_school_close+win7_shop_close+win7_restaurant_close+win7_entertainment_close+win7_cultural_close",-3.50635475879842,0.81355256934594,-4.30993016421468,"pop","low"
+"4","win7_childcare_close+win7_entertainment_close+win7_worship_close+win7_sports_outdoor_close",-1.58073162728122,0.424808834819604,-3.72104226116784,"pop","high"

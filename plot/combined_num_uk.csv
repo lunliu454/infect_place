@@ -1,0 +1,4 @@
+"","combine","number","coefficient","se","t","win7_shop_close","win7_restaurant_close","win7_sports_indoor_close"
+"1","win7_sports_indoor_close",1,-0.563873211082498,0.217780730280239,-2.58917862180418,0,0,1
+"2","win7_shop_close+win7_sports_indoor_close",2,-1.08677935645545,0.349511122819314,-3.10942709831093,1,0,1
+"3","win7_shop_close+win7_restaurant_close+win7_sports_indoor_close",3,-1.37499197426416,0.391884171608299,-3.50866933109642,1,1,1

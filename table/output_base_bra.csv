@@ -1,0 +1,30 @@
+"","Intervention","Estimate"
+"1","School+Childcare","0.133**
+(0.060)"
+"2","Office","0.13**
+(0.055)"
+"3","Retail","-0.226***
+(0.070)"
+"4","Restaurant","0.00266
+(0.074)"
+"5","Bar","0.286***
+(0.072)"
+"6","Entertainment","0.064
+(0.092)"
+"7","Culture","0.104
+(0.102)"
+"8","Religion","0.159*
+(0.083)"
+"9","Sports indoor","-0.444***
+(0.063)"
+"10","Sports outdoor","-0.086*
+(0.046)"
+"11","Stay-at-home","0.118***
+(0.041)"
+"12","Small group in+out","-0.347***
+(0.098)"
+"13","Large group in+out","0.102
+(0.100)"
+"14","Observations","34812"
+"15","R-squared","0.290"
+"16","Adjusted R-squared","0.281"

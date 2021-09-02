@@ -1,0 +1,9 @@
+"","combine","number","coefficient","se","t","win7_school_close","win7_office_close","win7_shop_close","win7_restaurant_close","win7_bar_close","win7_entertainment_close","win7_cultural_close","win7_sports_outdoor_close"
+"1","win7_shop_close",1,-0.226440896515337,0.0701467850864534,-3.22810084932983,0,0,1,0,0,0,0,0
+"2","win7_shop_close+win7_sports_outdoor_close",2,-0.312483101315049,0.08602804599984,-3.63233986874036,0,0,1,0,0,0,0,1
+"3","win7_shop_close+win7_restaurant_close+win7_sports_outdoor_close",3,-0.309820653021833,0.114805224167614,-2.69866336892038,0,0,1,1,0,0,0,1
+"4","win7_shop_close+win7_restaurant_close+win7_entertainment_close+win7_sports_outdoor_close",4,-0.245825546429481,0.16303574810308,-1.5078015054346,0,0,1,1,0,1,0,1
+"5","win7_shop_close+win7_restaurant_close+win7_entertainment_close+win7_cultural_close+win7_sports_outdoor_close",5,-0.141638521198037,0.130882878200108,-1.08217761670465,0,0,1,1,0,1,1,1
+"6","win7_office_close+win7_shop_close+win7_restaurant_close+win7_entertainment_close+win7_cultural_close+win7_sports_outdoor_close",6,-0.011645305048035,0.113394760793577,-0.102697029091441,0,1,1,1,0,1,1,1
+"7","win7_school_close+win7_office_close+win7_shop_close+win7_restaurant_close+win7_entertainment_close+win7_cultural_close+win7_sports_outdoor_close",7,0.120925831340255,0.133643202854388,0.904840865509714,1,1,1,1,0,1,1,1
+"8","win7_school_close+win7_office_close+win7_shop_close+win7_restaurant_close+win7_bar_close+win7_entertainment_close+win7_cultural_close+win7_sports_outdoor_close",8,0.407279606498584,0.0976864379597515,4.16925435101227,1,1,1,1,1,1,1,1

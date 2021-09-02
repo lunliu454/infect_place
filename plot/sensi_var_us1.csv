@@ -1,0 +1,136 @@
+"","intervention","exclude","b","se"
+"1","School1","Default",-0.0252852172078367,0.0698226996767256
+"2","School2","Childcare",NA,NA
+"3","School3","Retail",NA,NA
+"4","School4","Restaurant",NA,NA
+"5","School5","Bar",NA,NA
+"6","School","Entertainment",NA,NA
+"7","School7","Culture",NA,NA
+"8","School8","Religion",NA,NA
+"9","School9","Sports indoor",NA,NA
+"10","School10","Stay-at-home",NA,NA
+"11","School11","Small group out",NA,NA
+"12","School12","Large group out",NA,NA
+"13","School13","Add",NA,NA
+"14","School14",NA,NA,NA
+"15","School15",NA,NA,NA
+"16","Childcare1","Default",0.0372305044408158,0.0579942773662154
+"17","Childcare2","School",NA,NA
+"18","Childcare3","Retail",NA,NA
+"19","Childcare4","Restaurant",NA,NA
+"20","Childcare5","Bar",NA,NA
+"21","Childcare","Entertainment",NA,NA
+"22","Childcare7","Culture",NA,NA
+"23","Childcare8","Religion",NA,NA
+"24","Childcare9","Sports indoor",NA,NA
+"25","Childcare10","Stay-at-home",NA,NA
+"26","Childcare11","Small group out",NA,NA
+"27","Childcare12","Large group out",NA,NA
+"28","Childcare13","Add",NA,NA
+"29","Childcare14",NA,NA,NA
+"30","Childcare15",NA,NA,NA
+"31","Retail1","Default",0.100113516546295,0.0473289802520439
+"32","Retail2","School",NA,NA
+"33","Retail3","Childcare",NA,NA
+"34","Retail4","Restaurant",NA,NA
+"35","Retail5","Bar",NA,NA
+"36","Retail","Entertainment",NA,NA
+"37","Retail7","Culture",NA,NA
+"38","Retail8","Religion",NA,NA
+"39","Retail9","Sports indoor",NA,NA
+"40","Retail10","Stay-at-home",NA,NA
+"41","Retail11","Small group out",NA,NA
+"42","Retail12","Large group out",NA,NA
+"43","Retail13","Add",NA,NA
+"44","Retail14",NA,NA,NA
+"45","Retail15",NA,NA,NA
+"46","Restaurant1","Default",-0.0492929349053065,0.042092588344726
+"47","Restaurant2","School",NA,NA
+"48","Restaurant3","Childcare",NA,NA
+"49","Restaurant4","Retail",NA,NA
+"50","Restaurant5","Bar",NA,NA
+"51","Restaurant","Entertainment",NA,NA
+"52","Restaurant7","Culture",NA,NA
+"53","Restaurant8","Religion",NA,NA
+"54","Restaurant9","Sports indoor",NA,NA
+"55","Restaurant10","Stay-at-home",NA,NA
+"56","Restaurant11","Small group out",NA,NA
+"57","Restaurant12","Large group out",NA,NA
+"58","Restaurant13","Add",NA,NA
+"59","Restaurant14",NA,NA,NA
+"60","Restaurant15",NA,NA,NA
+"61","Bar1","Default",0.0464763972346161,0.0406284337893358
+"62","Bar2","School",NA,NA
+"63","Bar3","Childcare",NA,NA
+"64","Bar4","Retail",NA,NA
+"65","Bar5","Restaurant",NA,NA
+"66","Bar","Entertainment",NA,NA
+"67","Bar7","Culture",NA,NA
+"68","Bar8","Religion",NA,NA
+"69","Bar9","Sports indoor",NA,NA
+"70","Bar10","Stay-at-home",NA,NA
+"71","Bar11","Small group out",NA,NA
+"72","Bar12","Large group out",NA,NA
+"73","Bar13","Add",NA,NA
+"74","Bar14",NA,NA,NA
+"75","Bar15",NA,NA,NA
+"76","Entertainment1","Default",-0.191566123330668,0.0915575233748729
+"77","Entertainment2","School",NA,NA
+"78","Entertainment3","Childcare",NA,NA
+"79","Entertainment4","Retail",NA,NA
+"80","Entertainment5","Restaurant",NA,NA
+"81","Entertainment","Bar",NA,NA
+"82","Entertainment7","Culture",NA,NA
+"83","Entertainment8","Religion",NA,NA
+"84","Entertainment9","Sports indoor",NA,NA
+"85","Entertainment10","Stay-at-home",NA,NA
+"86","Entertainment11","Small group out",NA,NA
+"87","Entertainment12","Large group out",NA,NA
+"88","Entertainment13","Add",NA,NA
+"89","Entertainment14",NA,NA,NA
+"90","Entertainment15",NA,NA,NA
+"91","Culture1","Default",0.0807012439702808,0.0886739858410624
+"92","Culture2","School",NA,NA
+"93","Culture3","Childcare",NA,NA
+"94","Culture4","Retail",NA,NA
+"95","Culture5","Restaurant",NA,NA
+"96","Culture","Bar",NA,NA
+"97","Culture7","Entertainment",NA,NA
+"98","Culture8","Religion",NA,NA
+"99","Culture9","Sports indoor",NA,NA
+"100","Culture10","Stay-at-home",NA,NA
+"101","Culture11","Small group out",NA,NA
+"102","Culture12","Large group out",NA,NA
+"103","Culture13","Add",NA,NA
+"104","Culture14",NA,NA,NA
+"105","Culture15",NA,NA,NA
+"106","Religion1","Default",0.0460488159899252,0.0582703293682567
+"107","Religion2","School",NA,NA
+"108","Religion3","Childcare",NA,NA
+"109","Religion4","Retail",NA,NA
+"110","Religion5","Restaurant",NA,NA
+"111","Religion","Bar",NA,NA
+"112","Religion7","Entertainment",NA,NA
+"113","Religion8","Culture",NA,NA
+"114","Religion9","Sports indoor",NA,NA
+"115","Religion10","Stay-at-home",NA,NA
+"116","Religion11","Small group out",NA,NA
+"117","Religion12","Large group out",NA,NA
+"118","Religion13","Add",NA,NA
+"119","Religion14",NA,NA,NA
+"120","Religion15",NA,NA,NA
+"121","Sports indoor1","Default",-0.0819842228527936,0.0592562502570088
+"122","Sports indoor2","School",NA,NA
+"123","Sports indoor3","Childcare",NA,NA
+"124","Sports indoor4","Retail",NA,NA
+"125","Sports indoor5","Restaurant",NA,NA
+"126","Sports indoor","Bar",NA,NA
+"127","Sports indoor7","Entertainment",NA,NA
+"128","Sports indoor8","Culture",NA,NA
+"129","Sports indoor9","Religion",NA,NA
+"130","Sports indoor10","Stay-at-home",NA,NA
+"131","Sports indoor11","Small group out",NA,NA
+"132","Sports indoor12","Large group out",NA,NA
+"133","Sports indoor13","Add",NA,NA
+"134","Sports indoor14",NA,NA,NA
+"135","Sports indoor15",NA,NA,NA

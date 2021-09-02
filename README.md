@@ -8,7 +8,7 @@ jp_jointeffect_full.csv, uk_jointeffect_full.csv, us_jointeffect_full.csv, br_jo
 The codes for the analysis on the four sample countries are stored in four separate folders. In each folder\
 ***_basic_model.R** runs the basic two-way fixed-effect model on the causal impact of closing eleven types of activity spaces, and estimates the joint effects of closing multiple types of activity spaces, which produces *_jointeffect_full.csv.\
 ***_settlement_model.R** runs the regression model on the relationship between settlement characteristics and unit fixed effects.\
-***_pretrend.R** checks the parallel trend assumption.
+***_pretrend.R** checks the parallel trend assumption.\
 ***_density_size.R** runs separate models on large and small as well as high-density and low-density settlements, examining the interaction between activity space closure and settlement type.\
 ***_robust_sample.R** checks the sensitivity of results to sample selection.\
 ***_robust_var.R** checks the sensitivity of results to including or excluding more independent variables.\

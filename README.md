@@ -5,5 +5,5 @@ Places are fundamental factors in the spread of epidemics, as they are where peo
 ## Files recording the joint effects of activity spaces closures
 jp_jointeffect_full.csv, uk_jointeffect_full.csv, us_jointeffect_full.csv, br_jointeffect_full.csv provide the estimated joint effects of closing any combination of activity spaces in our four sample countries.
 ## Codes
-The codes for the analysis on the four sample countries are stored in four separate folders. In each folder 
-**_basic.R** runs the basic two-way fixed-effect model on the causal impact of closing eleven types of activity spaces.
+The codes for the analysis on the four sample countries are stored in four separate folders. In each folder\
+**_basic.R** runs the basic two-way fixed-effect model on the causal impact of closing eleven types of activity spaces, and estimates the joint effects of closing multiple types of activity spaces, which produces *_jointeffect_full.csv

@@ -1,4 +1,4 @@
-setwd("~/Documents/!Work/2020.7 Covid19/July")
+
 
 library(dplyr)
 library(ggplot2)

@@ -55,7 +55,7 @@ palette[2] <- palette[10]
 palette[9] <- palette[6] 
 
 # japan ----
-input <- read.csv("jp/jp_input_45counties.csv", stringsAsFactors = F)
+input <- read.csv("jp/jp_input.csv", stringsAsFactors = F)
 cols <- seq(as.Date("2020/4/1"), as.Date("2020/8/15"), "days") %>% as.character()
 intervention_plot(setdiff(intervention, 'win7_office_close'), 
                   cols, setdiff(titles, 'Office closure'), 'division_eng_name', palette)
@@ -69,7 +69,7 @@ ggsave("plot/policy_jp.png", fig, width = 80, height = 45, units = "cm",
 
 
 # uk ----
-input <- read.csv("uk/uk_input_234lda_final.csv", stringsAsFactors = F)
+input <- read.csv("uk/uk_input.csv", stringsAsFactors = F)
 input <- input %>% mutate(date = as.Date(date)) %>% 
   filter(date > as.Date('2020-02-20'))
 cols <- seq(as.Date("2020/2/21"), as.Date("2020/8/15"), "days") %>% as.character()
@@ -83,7 +83,7 @@ ggsave("plot/policy_uk.png", fig, width = 80, height = 45, units = "cm",
        dpi = 100, limitsize = F)
 
 # us ----
-input <- read.csv("us/us_input_msa2.csv", stringsAsFactors = F)
+input <- read.csv("us/us_input.csv", stringsAsFactors = F)
 input <- filter(input, !city_eng_name %in% c('Lawton, OK', 'Oklahoma City, OK', 'Tulsa, OK'))
 cols <- seq(as.Date("2020/3/13"), as.Date("2020/8/15"), "days") %>% as.character()
 intervention_plot(setdiff(intervention, c('win7_office_close', 'win7_sports_outdoor_close')), 
@@ -99,7 +99,7 @@ ggsave("plot/policy_us.png", fig, width = 80, height = 45, units = "cm",
 
 
 # brazil ----
-input <- read.csv("bra/brazil_input_319cities_final.csv", stringsAsFactors = F)
+input <- read.csv("br/br_input.csv", stringsAsFactors = F)
 cols <- seq(as.Date("2020/4/3"), as.Date("2020/8/15"), "days") %>% as.character()
 intervention_plot(intervention, cols, titles, 'code', palette)
 fig <- ggarrange(fig1, fig2, fig3, fig4, fig5, fig6, fig7, fig8, 

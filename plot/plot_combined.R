@@ -1,4 +1,4 @@
-
+library(ggplot2)
 # jp -----
 jp <- read.csv("plot/combined_num_jp.csv")
 jp <- jp[1 : 6, ]

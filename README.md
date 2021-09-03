@@ -12,4 +12,7 @@ The codes for the analysis on the four sample countries are stored in four separ
 ***_density_size.R** runs separate models on large and small as well as high-density and low-density settlements, examining the interaction between activity space closure and settlement type.\
 ***_robust_sample.R** checks the sensitivity of results to sample selection.\
 ***_robust_var.R** checks the sensitivity of results to including or excluding more independent variables.\
-***_robust_density_size.R** checks the sensitivity of results to alternative indicators of settlement size and density (for Japan and US only).
+***_robust_density_size.R** checks the sensitivity of results to alternative indicators of settlement size and density (for Japan and US only).\
+***_intv_rt.R** processes raw case data and intervention timetable.\
+***_info.R** processes raw data on socioeconomic information of spatial units.\
+***Folder "plot"** contains the codes for drawing the graphs in the paper.
